@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+scalargrad/scalargrad.egg-info/PKG-INFO
+scalargrad/scalargrad.egg-info/SOURCES.txt
+scalargrad/scalargrad.egg-info/dependency_links.txt
+scalargrad/scalargrad.egg-info/top_level.txt
